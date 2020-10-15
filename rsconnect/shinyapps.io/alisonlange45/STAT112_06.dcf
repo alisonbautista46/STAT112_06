@@ -1,0 +1,13 @@
+name: STAT112_06
+title: STAT112_06
+username:
+account: alisonlange45
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3005211
+bundleId: 3745057
+url: https://alisonlange45.shinyapps.io/STAT112_06/
+when: 1602768226.45949
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 06_exercises.Rmd|README.md|06_exercises_files/figure-html/unnamed-chunk-1-1.png
